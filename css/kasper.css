@@ -475,6 +475,12 @@ header nav .form i{
   color: white;
   text-align: center;
 }
+@media (max-width: 767px) {
+  .video .text{
+    height: 100%;
+    padding: 30px;
+  }
+}
 .video .text h2{
   margin: 0 0 30px;
   text-transform: uppercase;
